@@ -1,0 +1,48 @@
+body {
+  background-color: #ebfca2;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  font-size: 18px;
+  padding: 12px 24px;
+  margin: 10px;
+  border: none;
+  background-color: #81da84;
+  color: rgb(255, 253, 142);
+  border-radius: 5px;
+  cursor: pointer;
+  width: 200px;
+}
+
+button:hover {
+  background-color: #4546a0;
+}
+
+#game-area {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#finish-button {
+  font-size: 20px;
+  padding: 12px 30px;
+  background-color: #f44336;
+}
+
+#about-us {
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: #395f85;
+}
+
+p {
+  font-size: 18px;
+  color: #416488;
+}
