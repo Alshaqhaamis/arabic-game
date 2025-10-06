@@ -1,1 +1,1 @@
-This project was developed with the help of code-writing tools, with full customization, design and implementation by myself.
+This project was developed with the help of code-writing tools but I did all the customization design and implementation myself and it’s actually my high school graduation project not just any ordinary project”
